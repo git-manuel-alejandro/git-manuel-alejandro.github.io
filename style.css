@@ -1,14 +1,10 @@
-.color-tomate {
-    /* color: tomato;
-    color: #cccccc; */
-    color: aliceblue;
-}
-
 .bg {
     background-image: url(./531726.jpg);
-    /* opacity: 1; */
-    /* background-color: #cccccc;
-    background-color: #cccccc;
-    background-image: linear-gradient(red, yellow); */
+ 
 
+}
+
+.center {
+    color: aliceblue;
+    text-align: center;
 }
