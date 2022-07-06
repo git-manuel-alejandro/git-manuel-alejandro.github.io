@@ -11,3 +11,20 @@
     color: aliceblue;
     text-align: center;
 }
+
+ul{
+   display: flex;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 22px;
+    color: white;
+}
+
+.link:hover {
+    font-size: 25px;
+}
